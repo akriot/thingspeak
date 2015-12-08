@@ -19,10 +19,10 @@ development:
   strict: false
   encoding: utf8
   reconnect: false
-  database: thingspeak_development
+  database: d87bpeqj2noc6i
   pool: 5
-  username: thing
-  password: "speak"
+  username: rypvafgptqiirl
+  password: "BMcDDUfukTBmgyANxW4CZnCswI"
 # socket: /var/lib/mysql/mysql.sock
   socket: /var/run/mysqld/mysqld.sock
 
@@ -46,9 +46,9 @@ production:
   strict: false
   encoding: utf8
   reconnect: true
-  database: thingspeak_production
+  database: d87bpeqj2noc6i
   pool: 5
-  username: root
-  password: "notimplemented"
+  username: rypvafgptqiirl
+  password: "BMcDDUfukTBmgyANxW4CZnCswI"
   socket: /var/run/mysqld/mysqld.sock
 
